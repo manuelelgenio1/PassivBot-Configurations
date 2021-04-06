@@ -7,7 +7,7 @@
     "ddown_factor": 2.494,
     "entry_qty_pct": 0.1373,
     "min_close_qty_multiplier": 0.7,
-    "leverage": 15.0,
+    "leverage": 10.0,
     "n_entry_orders": 8,
     "n_close_orders": 14.0,
     "grid_spacing": 0.00048,
